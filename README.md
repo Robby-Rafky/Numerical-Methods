@@ -1,5 +1,5 @@
 # Numerical-Methods
-VERY OLD and Scuffed Secondary School Work
+VERY OLD SCHOOL WORK
 
 
 Accurately calculates roots of various equations using Fixed-Point iteration, Bisection and Newton-Raphson methods.
